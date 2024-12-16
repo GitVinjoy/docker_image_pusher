@@ -5,5 +5,8 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+# centos7.9镜像
+docker pull centos:centos7.9.2009
+
 # mysql 8.0
-docker pull mysql:8.0.40
+# docker pull mysql:8.0.40
