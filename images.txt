@@ -6,7 +6,6 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 # centos7.9镜像
-docker pull centos:centos7.9.2009
+centos:centos7.9.2009
 
-# mysql 8.0
-# docker pull mysql:8.0.40
+# mysql:8.0.40
